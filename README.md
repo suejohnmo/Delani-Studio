@@ -1,23 +1,38 @@
-
 # Project Name
+
 Delani Studios
 
 # Project Description
+
 This week, your task is to implement everything you have learnt from Bootstrap and jQuery to recreate a landing page for a fictional studio named Delani Studio
 
 # Author
+
 Susan Mwaura
 
-# Technologies Used
+## Technologies Used
+
+- HTML5
+- CSS
+- Bootstrap
+- jQuery
+- Markdown
 
 # Dependencies
 
 # Setup & Installation Instructions
 
+- Open Terminal
+- git clone 'https://github.com/suejohnmo/Delani-Studio.git'
+- cd Delani-Studio
+- code . or atom .
+
 # Contact
+
 If you want to improve my page suggestions are welcome. contact me on suejohnmo@gmail.com Thank you.
 
 # License Information
+
 MIT License
 
 Copyright (c) 2020 Suejohnmo
